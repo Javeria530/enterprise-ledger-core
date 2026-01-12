@@ -1,1 +1,1 @@
-// fix ledger reconciliation bug
+// fix ledger balance reconciliation logic
